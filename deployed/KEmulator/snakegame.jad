@@ -1,0 +1,9 @@
+MIDlet-1: Main,/res/snake.png,snakegame.Main
+MIDlet-Icon: /res/snake.png
+MIDlet-Jar-Size: 4893
+MIDlet-Jar-URL: snakegame.jar
+MIDlet-Name: Snake Game
+MIDlet-Vendor: Kirill Fish
+MIDlet-Version: 1.0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
